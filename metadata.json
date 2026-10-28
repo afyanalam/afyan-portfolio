@@ -1,0 +1,6 @@
+{
+  "name": "Aetherial - 3D Web Developer Portfolio",
+  "description": "An interactive, ultra-modern 3D Web Developer portfolio featuring procedural Three.js animations, live interactive dev playground, customizable profile, project showcase, and dynamic WebGL experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
